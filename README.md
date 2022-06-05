@@ -13,7 +13,7 @@
 
 ### 2. Lakukan proses Backup Dengan Sql Dari Database Tugas Sebelumnya !
 
-![soal nomor 2 backup](https://user-images.githubusercontent.com/74331125/172011985-4ce6d878-e001-4c29-9734-053d4b7feae9.png)
+![soal nomor 2 recovery](https://user-images.githubusercontent.com/74331125/172042063-e679f4ca-760c-4acb-8180-102e76c723d1.png)
 
 ### 3. Jika Proses Berhasil Maka Akan Muncul File Backup Pada Direktori C:\xampp\mysql\data\nama database
 

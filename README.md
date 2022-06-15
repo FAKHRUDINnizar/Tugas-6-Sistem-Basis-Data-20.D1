@@ -33,4 +33,4 @@ Data Yang Telah Di-Backup Dapat Dikembalikan Kapan Saja Bila Diperlukan. Sintaks
 
 - Crontab –e
 
-5923***myqldump -u adminklinik -p klinik_312010195>BackupTugas6.sql
+00**7myqldump -u adminklinik -p klinik_312010195>BackupTugas6.sql
